@@ -1,6 +1,6 @@
 # The MIP Framework: A Primer for Authors
 
-## Intro
+## Intro"><xssss
 
 This resource comes to the aid of people interested in authoring and publishing proposals within the MIP Framework.
 
@@ -14,7 +14,7 @@ As MIPs and subproposals largely go through the same process, it is convenient t
 
 ***
 
-## Preliminaries
+## Preliminaries"<xss
 
 ### Quick Review of the Basics
 
